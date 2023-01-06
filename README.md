@@ -28,7 +28,7 @@
 
 ## 🛠️ Abrir e rodar o projeto
 
-Use o ``Visual Studio Code`` para usar este projeto
+Use o ``Visual Studio Code`` ou ``Visual Studio 2022`` para usar este projeto
 
 Run Entity framework command
 ```
@@ -43,7 +43,6 @@ update-database -Verbose -Context MeuDBContext
 &nbsp;&nbsp;<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 &nbsp;&nbsp;<img width="90"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 &nbsp;&nbsp;<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-&nbsp;&nbsp;<img width="90"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 </p>
 
 - ``Entity Framework Core 6``
