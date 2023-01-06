@@ -1,5 +1,9 @@
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/20684484/211015496-ffe7cd44-2e9a-4395-b496-dabb7042905a.png" width="70%" align="center" > </h1>
 
+![EF Core](https://user-images.githubusercontent.com/20684484/211016628-5ba46550-a6b3-4d2f-b4a0-e78de02217dd.png)
+
+
+
 <h4 align="center"> 
     :construction:  Projeto usado para estudo, forever em construção  :construction:
 </h4>
