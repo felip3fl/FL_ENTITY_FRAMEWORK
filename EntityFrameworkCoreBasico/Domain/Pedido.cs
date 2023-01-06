@@ -1,3 +1,5 @@
+using EntityFrameworkCoreBasico.ValueObjects;
+
 namespace EntityFrameworkCoreBasico.Domain
 {
     public class Pedido
