@@ -1,4 +1,4 @@
-<h1 align="center"> FL Entity Framework Core <img src="https://www.campusmvp.es/recursos/image.axd?picture=/Logos-Banners/Entity-Framework-Core.png" width="80" align="center" > </h1>
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/20684484/211015496-ffe7cd44-2e9a-4395-b496-dabb7042905a.png" width="70%" align="center" > </h1>
 
 <h4 align="center"> 
     :construction:  Projeto usado para estudo, forever em construção  :construction:
