@@ -16,11 +16,16 @@ namespace EntityFrameworkCoreBasico.Data
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            //Modelo novo de configurar as tabelas, método com 1 linha:
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationContext).Assembly);
+
             //Modelo novo de configurar as tabelas, método que precisa add linha a linha
+            /*
             modelBuilder.ApplyConfiguration(new ClienteConfiguration());
             modelBuilder.ApplyConfiguration(new PedidoConfiguration());
             modelBuilder.ApplyConfiguration(new PedidoItemConfiguration());
             modelBuilder.ApplyConfiguration(new ProdutoConfiguration());
+            */
 
             #region Modelo antigo de configurar as tabelas 
             /*
