@@ -1,4 +1,5 @@
-﻿using EntityFrameworkCoreBasico.Domain;
+using EntityFrameworkCoreBasico.Data.Configurations;
+using EntityFrameworkCoreBasico.Domain;
 using Microsoft.EntityFrameworkCore;
 
 namespace EntityFrameworkCoreBasico.Data
@@ -15,6 +16,14 @@ namespace EntityFrameworkCoreBasico.Data
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            //Modelo novo de configurar as tabelas, método que precisa add linha a linha
+            modelBuilder.ApplyConfiguration(new ClienteConfiguration());
+            modelBuilder.ApplyConfiguration(new PedidoConfiguration());
+            modelBuilder.ApplyConfiguration(new PedidoItemConfiguration());
+            modelBuilder.ApplyConfiguration(new ProdutoConfiguration());
+
+            #region Modelo antigo de configurar as tabelas 
+            /*
             modelBuilder.Entity<Cliente>(builder =>
             {
                 builder.ToTable("Clientes");
@@ -53,8 +62,10 @@ namespace EntityFrameworkCoreBasico.Data
                 //OnDelete deleta todos os itens desse pedido quando o pedido é deletado
                 builder.HasMany(p => p.Itens)
                     .WithOne(p => p.Pedido)
-                    .OnDelete(DeleteBehavior.Cascade); 
+                    .OnDelete(DeleteBehavior.Cascade);
             });
+            */
+            #endregion
         }
     }
 }
