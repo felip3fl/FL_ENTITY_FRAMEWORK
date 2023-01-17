@@ -4,6 +4,8 @@
     :construction:  Projeto usado para estudo, forever em construção [06:04] :construction:
 </h4>
 
+<BR>
+
 ## 📃 Descrição do projeto
 
 <p align="justify">
@@ -15,6 +17,8 @@
 </p>
 
 
+<BR>
+
 
 ## :hammer: Funcionalidades do projeto
 
@@ -22,9 +26,13 @@
 - `Funcionalidade 2`: descrição da funcionalidade 2
 - `Funcionalidade 3`: descrição da funcionalidade 3
 
+<BR>
+
 ## 📁 Acesso ao projeto
 
 **Todo código fonte se encontra na pasta SRC/DevIO.Api**
+
+<BR>
 
 ## 🛠️ Abrir e rodar o projeto
 
@@ -35,6 +43,8 @@ Run Entity framework command
 update-database -Verbose -Context MeuDBContext
 ```
 
+
+<BR>
 
 ## ✔️ Técnicas e tecnologias utilizadas
 <p align="justify">
@@ -49,11 +59,15 @@ update-database -Verbose -Context MeuDBContext
 - ``Entity Framework Core 6``
 - ``Paradigma de orientação a objetos``
 
+<BR>
+
 ## Autor
 
 | [<img src="https://github.com/felip3fl/felip3fl/blob/main/Material/Nick/nick1.jpg?raw=true" width=115><br><sub>Felipe Lima</sub>](https://github.com/felip3fl) | 
 | :---: 
   
+<BR>
+
 ## Licença
 
 Docusaurus is [MIT licensed](./LICENSE).
