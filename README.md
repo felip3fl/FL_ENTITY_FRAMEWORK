@@ -1,4 +1,4 @@
-<h3 align="center"> <img src="https://user-images.githubusercontent.com/20684484/211016628-5ba46550-a6b3-4d2f-b4a0-e78de02217dd.png" width="70%" align="center" > </h3>
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/20684484/211016628-5ba46550-a6b3-4d2f-b4a0-e78de02217dd.png" width="550px" align="center" > </h3>
 
 <h4 align="center"> 
     :construction:  Projeto usado para estudo, forever em construção [06:04] :construction:
