@@ -56,7 +56,7 @@ update-database -Verbose -Context MeuDBContext
 &nbsp;&nbsp;<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 &nbsp;&nbsp;<img width="90"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 &nbsp;&nbsp;<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-&nbsp;&nbsp;<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+&nbsp;&nbsp;<img width="90" src="https://user-images.githubusercontent.com/20684484/221180847-4c5efc03-adbd-4ec6-8764-903d68ac50b4.png">
 </p>
 
 - ``Entity Framework Core 6``
