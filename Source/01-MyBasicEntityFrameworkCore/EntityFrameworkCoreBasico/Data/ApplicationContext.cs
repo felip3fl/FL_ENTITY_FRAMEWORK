@@ -14,6 +14,7 @@ namespace EntityFrameworkCoreBasico.Data
         {
             optionsBuilder.UseSqlServer("Data source=(localdb)\\mssqllocaldb;Initial Catalog=CursoEFCore;Integrated Security=true");
         }
+        
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             //Modelo novo de configurar as tabelas, método com 1 linha:
