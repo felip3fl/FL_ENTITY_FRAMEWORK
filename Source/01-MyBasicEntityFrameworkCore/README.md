@@ -3,8 +3,8 @@
 <h4 align="center"> 
     :construction:  Projeto usado para estudo, forever em construção [06:04] :construction:
     <BR><BR>
-    <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-purple">
-    <img src="https://img.shields.io/badge/PROJECT%20VERSION-1.0.0-purple">
+    <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-68217a">
+    <img src="https://img.shields.io/badge/PROJECT%20VERSION-1.0.0-68217a">
 </h4>
 
 <BR>
