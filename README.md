@@ -1,11 +1,11 @@
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/20684484/211016628-5ba46550-a6b3-4d2f-b4a0-e78de02217dd.png" width="550px" align="center" > </h3>
 
-<h4 align="center"> 
+<p align="center"> 
     :construction:  Projeto usado para estudo, forever em construção :construction:
     <BR><BR>
     <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-68217a">
     <img src="https://img.shields.io/badge/PROJECT%20VERSION-1.0.0-68217a">
-</h4>
+</p>
 
 <BR>
 
